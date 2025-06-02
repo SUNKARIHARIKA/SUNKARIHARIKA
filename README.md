@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SUNKARIHARIKA
-- 👀 I’m interested in  **programming**, **data structures**, and **data science**
+- 👀 I’m interested in  **programming**, **data structures**, **data science** and Web development 
 - 🌱 I’m currently learning **DSA (Data Structures and Algorithms)**, **Python**, and exploring **machine learning**
 - 💞️ I’m looking to collaborate on ...**beginner-friendly open-source projects**, especially in Python or data analysis
 - 📫 How to reach me ...Email:sunkariharika123@gmail.com or linkedin:https://www.linkedin.com/in/sunkari-harika-a5796b297/
